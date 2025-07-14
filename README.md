@@ -95,5 +95,5 @@ If using an IDE like IntelliJ or Eclipse, make sure you enable annotation proces
 ## 🧑‍💻 Author
 
 **Kumod De Silva**
-[LinkedIn](https://www.linkedin.com/in/kumod-de-silva) | [Email](mailto:kumodnenuk@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kumoddesilva) | [Email](mailto:kumodnenuk@gmail.com)
 
